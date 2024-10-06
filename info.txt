@@ -1,0 +1,7 @@
+website path - \Website\index\index.php
+
+mysql database name = user_db
+
+admin login = username - admin
+              password - admin
+

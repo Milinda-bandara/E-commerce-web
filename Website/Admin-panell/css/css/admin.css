@@ -1,0 +1,110 @@
+#admbtn{
+    position: fixed;
+    right: 10px;
+}
+
+.err_m{
+    text-align: center; 
+    border: 1px solid;
+    background-color: tomato; 
+    color: #fff; 
+    border-radius: 9px;
+}
+
+.secc{
+    position: absolute;
+    top: 10px;
+    left: 500px;
+
+}
+
+#fii{
+    width: 260px;
+}
+
+#fii1{
+    width: 220px;
+}
+
+.fakespace{
+    width: 100%;
+    height: 30vh;
+}
+
+.typ label{
+    font-size: x-large;
+    color: black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bckg img{
+    width: 20%;
+    position: fixed;
+    top: 300px;
+    left: 900px;
+    opacity: 0.2;
+}
+.sus_m{
+    text-align: center; 
+    border: 1px solid;
+    background-color: rgb(59, 245, 22); 
+    color: #fff; 
+    border-radius: 9px;
+}
+
+.nadd{
+    text-align: center;
+    font-weight: 900;
+    font-family: sans-serif;
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.447);
+}
+
+.form-control{
+    border: 1px solid;
+}
+
+
+.tbl-full{
+    border: solid;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+
+}
+
+.tbl-full thead tr{
+    background-color: #009879;
+    color: #fff;
+    font-weight: bold;
+}
+
+.tbl-full th,
+.tbl-full td{
+    padding: 12px 15px;
+}
+
+.tbl-full tbody tr{
+    border-bottom: 2px solid #dddddd;
+}
+
+.tbl-full tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;
+}
+
+.tbl-full tbody tr:last-of-type{
+    border-bottom: 5px solid #009879;
+}
+
+
+
+.footer{
+    
+    
+    width: 100%;
+}
